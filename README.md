@@ -1,1 +1,1 @@
-# Sales-report-of-hardware-company called XYZ
+# Sales-Report computer hardware-company called XYZ
