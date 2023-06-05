@@ -1,1 +1,2 @@
-# Sales-Report computer hardware-company called XYZ
+# Sales & Financial Report of a computer hardware company called XYZ
+
